@@ -66,5 +66,9 @@
       "**/hardhat-ts/**"
     ]
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0"
+  }
 }
